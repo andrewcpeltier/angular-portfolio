@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularportfolio-7a006": {
+      "hosting": {
+        "angular-portfolio": [
+          "angularportfolio-7a006"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angularportfolio-7a006"
+  }
+}

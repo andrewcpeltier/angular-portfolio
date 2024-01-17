@@ -1,3 +1,30 @@
 .example-spacer {
   flex: 1 1 auto;
 }
+
+.sidenav-container {
+  height: 100%;
+  background-color: white;
+  color: black;
+}
+
+.sidenav {
+  width: 200px;
+  background-color: #000000bb;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.div-content {
+  height: 60%;
+  margin: 3%;
+  position: absolute;
+}
